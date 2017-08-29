@@ -1,3 +1,3 @@
-import { HELLO } from './hello'
+import { MENU } from './menu'
 
-document.write(HELLO)
+document.write(MENU)
